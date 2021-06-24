@@ -1,6 +1,6 @@
 classes= 2
-train  = data/train.txt
-valid = data/train.txt
-names = data/obj.names
+train  = train.txt
+valid = train.txt
+names = obj.names
 backup = backup/
 
