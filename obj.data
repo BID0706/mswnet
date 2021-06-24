@@ -1,6 +1,6 @@
 classes= 2
-train  = train.txt
-valid = train.txt
-names = obj.names
+train  = /content/mswnet/train.txt
+valid = /content/mswnet/train.txt
+names = /content/mswnet/obj.names
 backup = backup/
 
