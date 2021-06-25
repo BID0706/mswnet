@@ -2,5 +2,5 @@ classes= 2
 train  = /content/mswnet/train.txt
 valid = /content/mswnet/train.txt
 names = /content/mswnet/obj.names
-backup = backup/
+backup = /content/drive/MyDrive/Colab Notebooks/backup/
 
